@@ -1,0 +1,504 @@
+.slider{
+				width: 100%;
+				height: 70%;
+}
+
+
+body {
+				background: #f4f4f4;
+				font:15px/1.5 Arial, Helvetica, 								sans-serif;
+				 padding: 0;
+				 margin: 0 auto;
+				 position: relative;
+				 
+}
+
+
+header{
+
+				background: #cde0e0;
+				color: #ffffff;
+				padding-top: 30px;
+				min-height: 100px;
+				border-bottom: black solid 5px;
+				height: 200px;
+	}
+
+
+header .name{
+				margin-right: ;
+				padding: 0px;
+}
+
+
+
+header .menu{
+				float:right;
+				margin-top: -250px;
+}
+
+
+header .menu h3{
+				color: #8098ff;
+				text-transform: uppercase;
+				font-size: 40px;
+				font-weight: 40px;
+				margin-top: -18px;
+				margin-right: 25px;
+}
+
+
+header .menu button{
+				height: 140px;
+				border:#ff001f solid 5px ;
+				width: 110px;
+				margin-top: -30px;
+				border-radius: 10px;
+				background: ;
+}
+
+
+
+
+header .menu button hr{
+				width: 50px;
+				padding: 12px;
+				color: white;
+				height: 2px;
+				border: #ff001f solid 2px;
+				border-radius: 10px;
+}
+
+
+
+
+
+
+
+header span{
+				color: #ff001f;
+				text-transform: uppercase;
+				font-size: 60px;
+				font-weight: 60px;
+				margin-left: 20px;
+}
+
+
+header h1{
+
+				font-size: 60px;
+				font-weight: 60px;
+				color: #8098ff;
+				margin-left: 20px;
+				margin-bottom: px;
+}
+
+
+.branding{
+				background: url("");
+				padding: 50px;
+				
+}
+
+
+
+.branding h1{
+				text-align: center;
+				color: #ff001f;	
+				font-size: 73px;
+				font-weight: 20px;
+				text-transform: uppercase;
+				text-decoration: underline;
+}
+
+
+.branding h2{
+				font-size: 50px;
+				font-weight: 20px;
+				text-align: center;
+}
+
+
+.branding span{
+				color:#ff001f ;
+}
+
+
+/* NEWSLETTERS */
+.newsletter{
+				padding: 15px;
+				color: #ffffff;
+				background:#272e4e ;
+				min-height: 200px;
+				
+}
+
+
+.newsletter h1{
+				float: left;
+				margin-top: 50px;
+				font-size: 30px;
+
+}
+
+
+.newsletter form {
+				float: right;
+				margin-top: 10px;
+				
+}
+
+
+.newsletter input[type="emails"]{
+				padding: 4px;
+				height: 50px;
+				width: 300px;
+}
+
+.newsletter button{
+				height: 58px;
+				background: Orange;
+				border: 0;
+				padding-left: 10px;
+				padding-right: 10px;
+				color: white;
+				border-radius: 70px;
+				width: 150px;
+}
+
+
+
+/* INTRODUCTION */
+
+.introduction{
+				width: 90%;
+				margin-left: 20px;
+}
+
+
+.introduction summary{
+				font-size: 60px;
+				font-weight: 60px;
+				margin-left: 20px;
+				color: #ff001f;
+				text-decoration: underline;
+}
+
+
+
+.introduction .firstpara{
+				padding: 20px;
+				font-size: 30px;
+				font-weight: 20px;
+				
+}
+
+
+
+.introduction .secondpara{
+				padding: 20px;
+				font-size: 30px;
+				font-weight: 20px;
+				background: #272e4e;
+				color: white;
+				border-radius: 20px;
+}
+
+.briefinfo{
+				font-size: 30px;
+				font-weight: 20px;
+}
+
+.video .upperpara{
+				padding: 20px;
+				font-size: 30px;
+				font-weight: 20px;
+				
+}
+
+
+.video .lowerpara{
+				padding: 20px;
+				font-size: 30px;
+				font-weight: 20px;
+				background: #272e4e;
+				color: white;
+				border-radius: 20px;
+}
+
+
+/* BOXES */
+
+.firstbox{
+				background: ;
+				width: 99%;
+				min-height: 600px;
+			border: #ff001f solid 2px;
+}
+
+
+.firstbox img{
+				width: 350px;
+}
+
+
+.firstbox p{
+				font-size: 30px;
+				font-weight: 20px;
+				color: #ff001f;
+}
+
+
+
+.firstbox .box1{
+				float:left;
+				text-align:center;
+				margin-top: 70px;
+				width: 40%;
+				
+}
+
+
+.firstbox .box2{
+				float:right;
+				text-align:center;
+				margin-top: 200px;
+				width: 40%;
+}
+
+
+
+
+.secondbox{
+				background: ;
+				width: 99%;
+				min-height: 600px;
+				border: #ff001f solid 2px;
+			  
+}
+
+
+.secondbox img{
+				width: 350px;
+}
+
+
+.secondbox p{
+				font-size: 30px;
+				font-weight: 20px;
+				color: #ff001f;
+}
+
+
+
+.secondbox .box3{
+				float:left;
+				text-align:center;
+				margin-top: 130px;
+				width: 40%;
+				
+}
+
+
+.secondbox .box4{
+				float:right;
+				text-align:center;
+				margin-top: 150px;
+				width: 40%;
+}
+
+
+
+/* Contact */
+
+
+.contactus{
+				font-size: 30px;
+				font-weight: 20px;
+				color: #272e4e;
+				text-transform: uppercase;
+				text-align: center;
+}
+
+
+.reachus{
+				padding: 10px;
+				float:center;
+}
+
+
+.reachus img{
+				float:center;
+				padding: 50px;
+}
+
+
+.lastspan{
+				color: #8098ff;
+}
+
+
+footer{
+				padding: 50px;
+				background:  #272e4e;
+				text-align:center;
+				font-size: 35px;
+				font-weight: 20px;
+				margin-top: -10px;
+				position: relative;
+				
+}
+
+.rgb{
+				position: relative;
+				margin-top: 50px;
+				color:  #272e4e;
+}
+
+
+
+.aboutonabout{
+				padding: 40;
+				color: ;
+				font-size: 35px;
+				font-weight: 20px;
+				position: relative;
+				margin-left: 10px;
+			
+}
+
+
+.aboutonabout span{
+				
+				text-decoration: underline;
+				color: #ff001f;
+}
+
+.aboutsecondpara{
+				border: #ff001f solid 2px;
+				border-radius: 10px;
+				background:#272e4e ;
+				color: white;
+}
+
+.importance{
+				padding:40px ;
+				margin-left: 8px;
+				
+}
+
+.importance h1{
+				font-size: 45px;
+				font-weight: 20px;
+}
+
+.importance ul{
+				color: #272e4e;
+				font-size: 40px;
+				font-weight: 20px;
+}
+
+.importance p{
+				color: red;
+					font-size: 32px;
+				font-weight: 15px;
+				
+}
+
+
+
+.secondimportance h1{
+				font-size: 45px;
+				font-weight: 20px;
+				margin-left: 20px;
+}
+
+
+.secondimportance button{
+				height: 100px;
+				width: 800px;
+				padding:40 px;
+				color: white;
+				float:center;
+				position: center;
+				margin-left: 50px;
+				background: black;
+				border-radius: 20px;
+				
+}
+
+
+
+.secondimportance button a{
+				font-size: 40px;
+				font-weight: 20px;
+				color: white;
+}
+
+
+button:hover {
+				background: cyan;
+				color: black;
+}
+
+a:hover{
+				cyan
+}
+
+
+aside{
+				padding: 20px;
+				color: black;
+				font-size: 45px;
+				font-weight: 40px;
+}
+
+aside h1{
+				color: #272e4e;
+				font-size: 45px;
+				font-weight: 20px;
+}
+
+
+aside p{
+				border: black dotted 2px;
+				border-radius: 20px;
+}
+
+
+/* MENU BAR */
+
+.menubar{
+				background: url("img14.png");
+				background-repeat: no-repeat;
+				background-position: center;
+				background-size: cover;
+				width: 80% ;
+}
+
+
+.menubar .menuul{
+     background: rgba(44, 62, 80, 0.7 );
+				overflow: none;
+				padding: 20px;
+				width: 80% auto;
+}
+
+
+.menubar li{
+				color: red;
+				padding: 80px;
+				min-height: 200px auto;
+		  	font-size: 70px;
+		  	margin: auto;
+		  	padding-left: 20px;
+		  	
+}
+
+
+.menubar li a{
+				color: Gold;
+				text-decoration: none;
+				text-transform: uppercase;
+				
+}
